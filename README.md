@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Felicity 👋 </h1>
 <h3 align="center">A passionate Data Scientist </h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianleoo&label=Profile%20views&color=0e75b6&style=flat" alt="cristianleoo" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=felicitybui1&label=Profile%20views&color=0e75b6&style=flat" alt="felicitybui1" /> </p> -->
 
-- 👩🏻‍💻 All of my projects are available at [https://felicitybui.github.io/](https://felicitybui1.github.io/felicitybui.github.io/)
+<! -- - 👩🏻‍💻 All of my projects are available at [https://felicitybui.github.io/](https://felicitybui1.github.io/felicitybui.github.io/) -->
 
 - 📫 How to reach me **phb2122@columbia.edu**
 
