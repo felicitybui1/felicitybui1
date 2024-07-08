@@ -23,5 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felicitybui1&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&text_color=000000&token=YOUR_PERSONAL_ACCESS_TOKEN&hide=javascript,css,scss,less,vue,php,shell,typescript,swift,go,ruby&langs_count=10" alt="felicitybui1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felicitybui1" alt="felicitybui1" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felicitybui1" alt="felicitybui1" /></p> -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felicitybui1)](https://git.io/streak-stats)
